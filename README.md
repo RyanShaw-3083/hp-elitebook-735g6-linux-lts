@@ -1,4 +1,4 @@
-# hp-elitebook-735g6-linux-lts
+# HP Elitebook 735 Gen 6 Linux LTS
 For using Linux more smoothly on Elite 735-G6.
 
 ## The Nightmare
