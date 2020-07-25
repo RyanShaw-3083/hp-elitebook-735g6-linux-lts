@@ -11,6 +11,8 @@ Wireless controller [0d40]: Intel Corporation XMM7360 LTE Advanced Modem [8086:7
 3. Validity Sensor (Fingerprint) ... not in use.  
 *That's too hard to get this goal.*  
 
+4. The Lighting sensor ... not in use.
+
 ## The Road Path  
 ### 1. Counting  
 'Star' this repository or leave an issue to let me known, if you also needed or are finding some solutions for using your Elitebook in the best way.  
