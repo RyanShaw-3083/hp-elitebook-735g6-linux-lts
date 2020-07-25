@@ -2,7 +2,7 @@
 For using Linux more smoothly on Elite 735-G6.  
 
 ## The Nightmare  
-1. WWAN not be recognized.
+1. WWAN not be recognized.  
 Wireless controller [0d40]: Intel Corporation XMM7360 LTE Advanced Modem [8086:7360]  
 
 2. UVC (UV Camera) not in use.  
